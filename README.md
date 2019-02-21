@@ -44,6 +44,12 @@ address your concern as quickly as possible.
 
  * [@elceef](https://github.com/elceef) (dnstwist itself)
  * [@peterwallhead](http://github.com/peterwallhead) (mobile UI assistance)
+ 
+ 
+## Adding the Heroku Button
+<a href="https://heroku.com/deploy?template=https://github.com/thisismyrobot/dnstwister">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 
 ## Developing dnstwister
 
